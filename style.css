@@ -1,0 +1,19 @@
+body {
+  background: url('./img/abstract.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#searchField {
+  width: 100%;
+  height: 80vh;
+  position: relative;
+}
+
+footer {
+  height: 20vh;
+}
+
+.found {
+  clear: both;
+}
