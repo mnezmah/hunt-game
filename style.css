@@ -13,3 +13,7 @@ body {
 footer {
   height: 20vh;
 }
+
+.found {
+  clear: both;
+}
